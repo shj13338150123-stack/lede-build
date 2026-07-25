@@ -1,0 +1,16 @@
+# Ignore compiled output
+/bin/
+/build_dir/
+/staging_dir/
+/tmp/
+/logs/
+*.o
+*.ipk
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
